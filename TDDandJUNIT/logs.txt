@@ -1,0 +1,153 @@
+2020-03-21 12:43:16 DEBUG class:20 - The given string is AAB 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is  
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 DEBUG class:38 - The output string after updating secondcharacter is  
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is B ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is ABB 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is  
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 DEBUG class:38 - The output string after updating secondcharacter is B 
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is BB ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is BBB 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is B 
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 DEBUG class:38 - The output string after updating secondcharacter is BB 
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is BBB ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is BA 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is B 
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 DEBUG class:38 - The output string after updating secondcharacter is B 
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is B ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is BB 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is B 
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 DEBUG class:38 - The output string after updating secondcharacter is BB 
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is BB ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is AB 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is  
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 DEBUG class:38 - The output string after updating secondcharacter is B 
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is B ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is BACD 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is B 
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 DEBUG class:38 - The output string after updating secondcharacter is B 
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is BCD ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is ABCD 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is  
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 DEBUG class:38 - The output string after updating secondcharacter is B 
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is BCD ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is AACD 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is  
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 DEBUG class:38 - The output string after updating secondcharacter is  
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is CD ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is  
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is  ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is AABAA 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is  
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 DEBUG class:38 - The output string after updating secondcharacter is  
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is BAA ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is BBAA 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is B 
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 DEBUG class:38 - The output string after updating secondcharacter is BB 
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is BBAA ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is A 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is  
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is  ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is B 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is B 
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is B ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is AaA 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is  
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 DEBUG class:38 - The output string after updating secondcharacter is a 
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is aA ************************** 
+2020-03-21 12:43:16 DEBUG class:20 - The given string is AA 
+2020-03-21 12:43:16 INFO  class:22 - calculation of string length
+2020-03-21 12:43:16 INFO  class:23 - intializing the output string
+2020-03-21 12:43:16 INFO  class:25 - checking whether stringlength is zero or not
+2020-03-21 12:43:16 INFO  class:28 - checking whether given stringlength is greater than or equal to 1
+2020-03-21 12:43:16 DEBUG class:32 - The output string after updating firstcharacter is  
+2020-03-21 12:43:16 INFO  class:34 - checking whether given stringlength is greater than or equal to 2
+2020-03-21 12:43:16 DEBUG class:38 - The output string after updating secondcharacter is  
+2020-03-21 12:43:16 INFO  class:41 - checking whether given stringlength is greater than 2
+2020-03-21 12:43:16 DEBUG class:47 - ******************** The final string is  ************************** 
